@@ -1,6 +1,6 @@
 # Expanding-Cards
 
-A text analyzer that shows you a text file along with statistics on the text. This build finds the 5 most and least used words as well as the documents length and word count. Built using HTML,CSS, JavaScript, and Bootstrap.
+A image manipulation project to expand cards images using JavaScript and CSS selectors and pseudo-classes
 
 # What I Learned/Skills Used
 
